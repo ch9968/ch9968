@@ -3,10 +3,6 @@
 Korean engineer building AI automation for SMB owners.  
 한국 자영업자분들을 위한 AI 자동화를 만들고 있어요.
 
-> Mission > demo. Pragmatic shipping > 완벽한 아키텍처.
-
-Currently building production AI systems for Korean SMB clients.  
-Preparing for **Palantir Korea Forward Deployed Software Engineer 2026**.
 
 ## Languages & Tools
 
