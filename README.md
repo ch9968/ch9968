@@ -1,7 +1,7 @@
 # Chanhee Lee
 
 Korean engineer building AI automation for SMB owners.  
-한국 자영업자분들을 위한 AI 자동화를 만들고 있어요.
+한국 소규모사업자분들을 위한 AI 자동화를 만들고 있습니다.
 
 
 ## Tech Stack
