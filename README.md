@@ -1,4 +1,4 @@
-# 안녕하세요, Claire Lee 입니다 👋
+# 안녕하세요, Chanhee Lee 입니다 👋
 
 > Korean developer building AI automation for SMB owners.
 
@@ -36,7 +36,14 @@ AI 자동화 서비스를 한국 SMB 사장님들께 제공하는 일을 운영 
 
 진짜 고객 워크플로우에 자리잡는 엔지니어링. Mission > demo. 고객의 결과물 > 기술적 미학. Pragmatic shipping > 완벽한 아키텍처.
 
+## 📊 GitHub Stats
+
+<a href="https://github.com/ch9968">
+  <img src="https://github-readme-stats.vercel.app/api?username=ch9968&show_icons=true&count_private=true&hide=stars&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch9968&theme=default&layout=compact&count_private=true&hide=html,css" alt="Top languages" />
+</a>
+
 ## 📫 Contact
 
-- ✉️ ichanhui578@gmail.com
+- ✉️ [ichanhui578@gmail.com](mailto:ichanhui578@gmail.com)
 - 🐙 [github.com/ch9968](https://github.com/ch9968)
