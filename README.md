@@ -15,11 +15,6 @@ Korean engineer building AI automation for SMB owners.
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Featured Work
-
-**[threads-outlier-finder](https://github.com/ch9968/threads-outlier-finder)** — Threads viral 게시물을 통계적 outlier 검출로 찾는 풀스택 앱. `Next.js` · `Supabase` · `Apify` · `Gemini`
-
-**[triplet_loss_intern](https://github.com/ch9968/triplet_loss_intern)** — Triplet-loss metric learning 기반 image fingerprinting (학부 ML 인턴). `Python` · `Keras` · `MobileNet`
 
 ## Contact
 
