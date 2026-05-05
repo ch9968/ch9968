@@ -15,7 +15,3 @@ Korean engineer building AI automation for SMB owners.
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-
-## Contact
-
-[ichanhui578@gmail.com](mailto:ichanhui578@gmail.com)
